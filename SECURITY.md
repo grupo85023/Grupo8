@@ -1,4 +1,4 @@
 # Política de seguridad del equipo
 
-Contacto de seguridad: (Sergi)
+Contacto de seguridad: (Sergi, Alex)
 Última revisión: (pendiente)
