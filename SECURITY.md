@@ -1,4 +1,6 @@
 # Política de seguridad del equipo
 
+
 Contacto de seguridad: (Sergi, Alex)
-Última revisión: (Edu, 18:14)
+Última revisión: (Edu, Alex)
+
