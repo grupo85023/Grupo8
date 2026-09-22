@@ -2,6 +2,6 @@
 
 Estado global: 2/3 completado
 
-- [X] (ítem A, pendiente)
+- [X] Deshabilitar login para login mediante conexión SSH como root (ítem A, Sergi)
 - [X] (ítem B, Actualizado)
-- [x] (ítem C, pendiente)
+- [ ] (ítem C, pendiente)
