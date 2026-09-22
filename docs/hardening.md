@@ -1,7 +1,7 @@
 # Checklist de hardening del servidor web
 
-Estado global: 1/3 completado
+Estado global: 2/3 completado
 
-- [X] (ítem A, Deshabilitar login para login mediante conexion SSH como root)
-- [X] (ítem B, pendiente)
-- [x] (ítem C, pendiente)
+- [X] Deshabilitar login para login mediante conexión SSH como root (ítem A, Sergi)
+- [X] (ítem B, Actualizado)
+- [ ] (ítem C, pendiente)
