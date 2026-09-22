@@ -1,7 +1,7 @@
 # Checklist de hardening del servidor web
 
-Estado global: 0/3 completado Prueba1
+Estado global: 2/3 completado
 
 - [X] (ítem A, pendiente)
-- [X] (ítem B, pendiente)
+- [X] (ítem B, Actualizado)
 - [x] (ítem C, pendiente)
