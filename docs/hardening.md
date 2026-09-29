@@ -1,6 +1,6 @@
 # Checklist de hardening del servidor web
 
-Estado global: 3/3 completado
+Estado global: 3/3 completado (verificado desde Desktop por Sergi)
 
 - [X] Deshabilitar login para login mediante conexión SSH como root (ítem A, Sergi)
 - [X] (ítem B, Alex, Actualizado)
