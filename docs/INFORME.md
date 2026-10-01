@@ -101,3 +101,16 @@ En la Fase 2 cada uno utilizaba su propio ordenador, así que cada uno ya tenía
 También cambiaron los conflictos. En la primera fase los provocábamos al hacer merge entre ramas que estaban en el mismo ordenador. En la segunda fase cada uno tenía su propia copia del repositorio y los conflictos podían aparecer cuando hacíamos `git pull`, cuando otra persona había subido cambios antes que nosotros o cuando `main` había cambiado mientras teníamos una Pull Request abierta.
 
 En general, en la segunda fase hemos visto mejor cómo sería trabajar de verdad entre varias personas, porque cada uno tenía su copia del proyecto y teníamos que ir actualizándola con los cambios de los demás.
+
+## Nota sobre la entrega del informe
+
+Al terminar la práctica intentamos subir este informe y las capturas directamente a `main`, pero no nos dejó. El motivo es la misma regla que configuramos en el apartado 2.3: `main` está protegida y solo acepta cambios a través de una Pull Request con al menos una aprobación.
+
+Para poder entregarlo seguimos los siguientes pasos:
+
+1. Crear una nueva rama llamada `entrega-informe` desde `main`.
+2. Añadimos en esa rama `docs/INFORME.md` y las capturas `docs/capturas/` hicimos commit y la subimos al remoto.
+3. Abrimos una Pull Request de `entrega-informe` hacia `main`.
+4. Alex la revisó y la aprobó, y después hicimos el merge de la rama en `main`.
+
+Esto nos sirvió para comprobar una vez más que la protección de `main` funciona: cualquier cambio, incluido el propio informe, tiene que pasar por una rama y una Pull Request revisada.
